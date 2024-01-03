@@ -85,13 +85,13 @@ a {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: url(imgs/bg-header-desktop.png);
+    background: url(../imgs/bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 @media (max-width: 767px) {
     .landing {
-        background: url(imgs/bg-header-mobile.png);
+        background: url(../imgs/bg-header-mobile.png);
         background-repeat: no-repeat;
         background-size: cover;
     }
